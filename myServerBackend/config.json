@@ -1,0 +1,4 @@
+{
+    "databaseURL": "mongodb+srv://admin:admin@myserver.7n4bf6x.mongodb.net/?retryWrites=true&w=majority",
+    "secretKey": "s0m3ALph6Numer1c"
+}
